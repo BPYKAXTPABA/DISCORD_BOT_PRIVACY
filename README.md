@@ -1,0 +1,2 @@
+# DISCORD_BOT_PRIVACY
+Privacy_and_Policy/Terms_of_Service
