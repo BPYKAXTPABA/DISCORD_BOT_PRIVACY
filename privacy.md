@@ -29,9 +29,9 @@ You may request to:
 - View the data the bot has stored about you
 - Request removal of your data
 
-To request this, please contact the developer at: **rodionbabak1@gmail.com**
+To request this, please contact the developer at: **formydota231@gmail.com**
 
 ## 6. Changes to This Policy
 We may update this Privacy Policy as needed. Continued use of the bot after changes means you accept the new policy.
 
-If you have any questions, please contact us at **rodionbabak1@gmail.com**.
+If you have any questions, please contact us at **formydota231@gmail.com**.
